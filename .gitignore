@@ -5,5 +5,6 @@
 Climate_Replica/*
 00_Input_data/*
 !00_Input_data/MET-Climate/
+!00_Input_data/.gitkeep
 !02_Data/.gitkeep
 
