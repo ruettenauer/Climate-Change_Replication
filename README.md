@@ -7,7 +7,7 @@ This repository provides all materials for replication of results in
 
 > Rüttenauer T. (2023) “More Talk, No Action? The Link between Exposure
 > to Extreme Weather Events, Climate Change Belief and Pro-Environmental
-> Behaviour”, *SocArxiv*.
+> Behaviour”, *European Societies*, Forthcoming.
 
 Published manuscript available here:
 
@@ -103,11 +103,11 @@ Data availability: The Understanding Society and Harmonised BHPS Special
 Licence Access data (12th Edition) is not publicly available because of
 privacy restrictions, but access can be acquired via the UK Data Service
 (SN: 6931, ) after application. The Recorded Flood Outlines data is
-publicly available via GOV.UK open data, . The HadUK-Grid weather data
-is publicly available from the UK MET office after registration, . R
-4.0.4 was used for data analysis, see Methods section for relevant
-packages. The R code for replication of this study can be found at the
-author’s GitHub repository: \[link will be added\].
+publicly available via GOV.UK open data, . Data was downloaded on
+2020-06-23. The HadUK-Grid weather data is publicly available from the
+UK MET office after registration, . Data was downloaded 2020-12-04. R
+4.2.2 was used for data analysis, see Methods section for relevant
+packages.
 
 Shapefiles on LSOAs and their centroids can be found online at ONS Open
 Geography Portal: <https://geoportal.statistics.gov.uk/>
