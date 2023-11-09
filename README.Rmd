@@ -19,9 +19,9 @@ This repository provides all materials for replication of results in
 
 > Rüttenauer T. (2023) “More Talk, No Action? The Link between Exposure to Extreme Weather Events, Climate Change Belief and Pro-Environmental Behaviour”, *European Societies*, Forthcoming.
 
-Published manuscript available here:
+Published manuscript available here: https://doi.org/10.1080/14616696.2023.2277281
 
-Preprint available here: https://doi.org/10.31235/osf.io/574uf
+<!-- Preprint available here: https://doi.org/10.31235/osf.io/574uf -->
 
 Date: 2023-06-06 
 

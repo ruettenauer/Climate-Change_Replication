@@ -10,8 +10,9 @@ This repository provides all materials for replication of results in
 > Behaviour”, *European Societies*, Forthcoming.
 
 Published manuscript available here:
+<https://doi.org/10.1080/14616696.2023.2277281>
 
-Preprint available here: <https://doi.org/10.31235/osf.io/574uf>
+<!-- Preprint available here: https://doi.org/10.31235/osf.io/574uf -->
 
 Date: 2023-06-06
 
