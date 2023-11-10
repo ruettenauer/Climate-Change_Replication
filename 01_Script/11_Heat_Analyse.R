@@ -1174,7 +1174,7 @@ for(i in c(1:4)){
 mf_heat <- mf_all
 mf_heat$group <- 2
 
-load("../../Climate-Change_UK/02_Data/Coeftable_combined_flood.RData")
+load("Coeftable_combined_flood.RData")
 mf_flood <- mf_all
 mf_flood$group <- 1
 
